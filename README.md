@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sammjinks
+- 👀 I’m interested in mobile app and game development.
+- 📫 Feel free to reach out to me via samson@venninteractive.com
